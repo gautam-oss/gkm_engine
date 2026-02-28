@@ -12,12 +12,12 @@
 
 ### From GitHub
 ```bash
-pip install git+https://github.com/<username>/gkm_engine.git
+pip install git+https://github.com/gautam-oss/gkm_engine.git
 ```
 
 ### For local development
 ```bash
-git clone git@github.com:<username>/gkm_engine.git
+git clone git@github.com/gautam-oss/gkm_engine.git
 cd gkm_engine
 pip install -e .
 ```
