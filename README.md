@@ -99,4 +99,4 @@ Follows [Semantic Versioning](https://semver.org/) — currently **0.1.0**.
 
 ## License
 
-MIT © Your Name
+MIT © Gautam Kumar 
